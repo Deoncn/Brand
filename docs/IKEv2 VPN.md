@@ -9,7 +9,7 @@ $\color{#DA70D6}{Watching.}$
 
 http://garen.dynv6.net -> 下载相应的证书文件(用户名密码都是 dawei )
 
-![alt](https://)
+![alt](https://github.com/Deoncn/Brand/blob/master/data/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-10%20194728.jpg?raw=true)
 
 ## 配置  IKEv2 VPN  客户端
 
