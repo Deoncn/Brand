@@ -4,3 +4,11 @@
 * [配置 Proxy 客户端](#配置-ikev2-vpn-客户端)
 
 * [Proxy 故障排除](#ikev2-故障排除)
+
+
+
+Trojan 服务端安装
+source <(curl -sL https://git.io/trojan-install)
+
+Markdon
+
