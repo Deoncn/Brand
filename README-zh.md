@@ -29,6 +29,18 @@ For Windwos - Linux - Macos
 
 iPhone 👉 Shadowrocket
 
+# Something
+
+1. 壁纸
+2. 头像
+3. 视频
+4. 小说
+5. 音乐？
+
+
+
+
+
 
 
 
