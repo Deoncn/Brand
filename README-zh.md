@@ -18,7 +18,7 @@ proxy ,vpn ,something.
 #### 2 Proxy
 
 
-##### Trojan Pc
+# Trojan 客户端
 使用 Qv2ray
 
 For Windwos - Linux - Macos
@@ -28,6 +28,17 @@ For Windwos - Linux - Macos
  Android 👉 [Igniter](https://github.com/trojan-gfw/igniter)
 
 iPhone 👉 Shadowrocket
+
+# Trojan Server for Service
+
+Trojan 多用戶管理面板 [👆](https://github.com/Jrohy/trojan)
+
+```bash
+source <(curl -sL https://git.io/trojan-install)
+
+source <(curl -sL https://git.io/trojan-install)
+```
+
 
 # Something
 

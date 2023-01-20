@@ -2,6 +2,11 @@
 
 # Brand
 
-`proxy ,vpn ,something.`
+`proxy, trojan ,vpn or something.`
+
+proxy : [Trojan](#Trojan)
+
+vpn
+
 
 
