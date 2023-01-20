@@ -1,9 +1,6 @@
  [中文](README-zh.md) | [English](README.md)
 
 # Brand | 布兰德
-proxy ,vpn ,something.
-
-萨尔瓦多 = Salvador
 
 
 # 参考资料
@@ -38,6 +35,12 @@ source <(curl -sL https://git.io/trojan-install)
 
 source <(curl -sL https://git.io/trojan-install)
 ```
+
+# SSR Client
+
+
+
+# SSR Server
 
 
 # Something
